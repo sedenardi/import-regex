@@ -1,5 +1,5 @@
 {
-  "name": "import-regex",
+  "name": "esm-import-regex",
   "version": "1.0.0",
   "description": "Regular expressions for matching ESM import statements.",
   "main": "index.js",

@@ -1,16 +1,16 @@
-# import-regex
+# esm-import-regex
 Regular expressions for matching ESM import statements.
 
 ## Installation
 
 ```
-npm i import-regex
+npm i esm-import-regex
 ```
 
 ### Usage
 
 ```js
-const importRegex = require('import-regex');
+const importRegex = require('esm-import-regex');
 const regex1 = importRegex();
 console.log(regex1.exec('import defaultMember from "module-name";'));
 // [
