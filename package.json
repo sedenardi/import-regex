@@ -1,0 +1,13 @@
+{
+  "name": "import-regex",
+  "version": "1.0.0",
+  "description": "Regular expressions for matching ESM import statements.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sedenardi/import-regex.git"
+  },
+  "author": "Sanders DeNardi <sedenardi@gmail.com> (http://www.sandersdenardi.com/)",
+  "homepage": "https://github.com/sedenardi/import-regex",
+  "license": "MIT"
+}
