@@ -9,5 +9,11 @@
   },
   "author": "Sanders DeNardi <sedenardi@gmail.com> (http://www.sandersdenardi.com/)",
   "homepage": "https://github.com/sedenardi/import-regex",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
 }

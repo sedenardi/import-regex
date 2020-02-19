@@ -41,6 +41,7 @@ console.log(regex2.exec('import \'module-name\''));
 * `2` - module to import from
 
 ## Tests
+Tests validate parsing all the [MDN `import` examples](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import#Syntax).
 
 ```js
 npm run test
